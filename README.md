@@ -9,5 +9,6 @@ Back end: Spring, Java\
 Deploy: Docker, Jenkins, AWS ES2
 
 # Update
+20221218: Spring & Angular init\
 20221215: update README.md, UML\
 20221127: initialization
