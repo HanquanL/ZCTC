@@ -9,8 +9,11 @@ Back end: Spring, Java\
 Deploy: Docker, Jenkins, AWS ES2
 
 # Update
+* 20221219:
+    1. Spring security config initialization
+    2. Updata Spring entity : User, Note, File, WallMessage
 * 20221218:
     1. Spring & Angular init
-    2. Connection established between Spring and Angular
+    2. Connect Spring to Angular
 * 20221215: update README.md, UML
 * 20221127: initialization
