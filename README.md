@@ -10,7 +10,7 @@ Deploy: Docker, Jenkins, AWS ES2
 
 # Update
 * 20221218:
-    1.Spring & Angular init
-    2.Connection established between Spring and Angular
+    1. Spring & Angular init
+    2. Connection established between Spring and Angular
 * 20221215: update README.md, UML
 * 20221127: initialization
