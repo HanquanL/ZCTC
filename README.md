@@ -9,6 +9,8 @@ Back end: Spring, Java\
 Deploy: Docker, Jenkins, AWS ES2
 
 # Update
+* 20221220:
+    1. Working on user registration
 * 20221219:
     1. Spring security config initialization
     2. Updata Spring entity : User, Note, File, WallMessage
